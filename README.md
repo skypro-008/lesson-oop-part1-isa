@@ -51,9 +51,6 @@ Pycharm может предложить вам сделать это после 
 - part2/heroes
 - part2/get_damage
 - part2/fury
-- part2/store
-- part2/magic
-- part2/wallet
 
 Задачи описаны в комментариях в файле main.py
 В текущих заданиях вы будете учиться основам ООП в Python, и применять его для
